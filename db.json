@@ -16,16 +16,6 @@
         "eu": false
     },
     {
-        "code": "ATA",
-        "name": "Antarctica",
-        "eu": false
-    },
-    {
-        "code": "ARM",
-        "name": "Armenia",
-        "eu": false
-    },
-    {
         "code": "ABW",
         "name": "Aruba",
         "eu": false
@@ -33,16 +23,6 @@
     {
         "code": "BHS",
         "name": "Bahamas",
-        "eu": false
-    },
-    {
-        "code": "BOL",
-        "name": "Bolivia, Plurinational State of",
-        "eu": false
-    },
-    {
-        "code": "BES",
-        "name": "Bonaire, Sint Eustatius and Saba",
         "eu": false
     },
     {
@@ -55,26 +35,7 @@
         "name": "Burkina Faso",
         "eu": false
     },
-    {
-        "code": "CMR",
-        "name": "Cameroon",
-        "eu": false
-    },
-    {
-        "code": "CAN",
-        "name": "Canada",
-        "eu": false
-    },
-    {
-        "code": "CHN",
-        "name": "China",
-        "eu": false
-    },
-    {
-        "code": "COM",
-        "name": "Comoros",
-        "eu": false
-    },
+  
     {
         "code": "CRI",
         "name": "Costa Rica",
@@ -111,21 +72,6 @@
         "eu": false
     },
     {
-        "code": "ERI",
-        "name": "Eritrea",
-        "eu": false
-    },
-    {
-        "code": "EST",
-        "name": "Estonia",
-        "eu": true
-    },
-    {
-        "code": "GUF",
-        "name": "French Guiana",
-        "eu": false
-    },
-    {
         "code": "PYF",
         "name": "French Polynesia",
         "eu": false
@@ -148,21 +94,6 @@
     {
         "code": "GIB",
         "name": "Gibraltar",
-        "eu": false
-    },
-    {
-        "code": "GLP",
-        "name": "Guadeloupe",
-        "eu": false
-    },
-    {
-        "code": "GUM",
-        "name": "Guam",
-        "eu": false
-    },
-    {
-        "code": "GTM",
-        "name": "Guatemala",
         "eu": false
     },
     {
@@ -203,21 +134,6 @@
     {
         "code": "ISL",
         "name": "Iceland",
-        "eu": false
-    },
-    {
-        "code": "IRQ",
-        "name": "Iraq",
-        "eu": false
-    },
-    {
-        "code": "IRL",
-        "name": "Ireland",
-        "eu": true
-    },
-    {
-        "code": "IMN",
-        "name": "Isle of Man",
         "eu": false
     },
     {
@@ -263,39 +179,9 @@
         "eu": false
     },
     {
-        "code": "JOR",
-        "name": "Jordan",
-        "eu": false
-    },
-    {
-        "code": "KAZ",
-        "name": "Kazakhstan",
-        "eu": false
-    },
-    {
-        "code": "KEN",
-        "name": "Kenya",
-        "eu": false
-    },
-    {
         "code": "KIR",
         "name": "Kiribati",
         "eu": false
-    },
-    {
-        "code": "KGZ",
-        "name": "Kyrgyzstan",
-        "eu": false
-    },
-    {
-        "code": "LAO",
-        "name": "Lao People's Democratic Republic",
-        "eu": false
-    },
-    {
-        "code": "LVA",
-        "name": "Latvia",
-        "eu": true
     },
     {
         "code": "LBN",
@@ -310,21 +196,6 @@
     {
         "code": "LBR",
         "name": "Liberia",
-        "eu": false
-    },
-    {
-        "code": "LBY",
-        "name": "Libya",
-        "eu": false
-    },
-    {
-        "code": "LIE",
-        "name": "Liechtenstein",
-        "eu": false
-    },
-    {
-        "code": "MKD",
-        "name": "Macedonia, the former Yugoslav Republic of",
         "eu": false
     },
     {
@@ -343,21 +214,6 @@
         "eu": false
     },
     {
-        "code": "MDV",
-        "name": "Maldives",
-        "eu": false
-    },
-    {
-        "code": "MLI",
-        "name": "Mali",
-        "eu": false
-    },
-    {
-        "code": "MRT",
-        "name": "Mauritania",
-        "eu": false
-    },
-    {
         "code": "MUS",
         "name": "Mauritius",
         "eu": false
@@ -370,16 +226,6 @@
     {
         "code": "MEX",
         "name": "Mexico",
-        "eu": false
-    },
-    {
-        "code": "FSM",
-        "name": "Micronesia, Federated States of",
-        "eu": false
-    },
-    {
-        "code": "MDA",
-        "name": "Moldova, Republic of",
         "eu": false
     },
     {
@@ -398,21 +244,6 @@
         "eu": false
     },
     {
-        "code": "NLD",
-        "name": "Netherlands",
-        "eu": true
-    },
-    {
-        "code": "NER",
-        "name": "Niger",
-        "eu": false
-    },
-    {
-        "code": "NGA",
-        "name": "Nigeria",
-        "eu": false
-    },
-    {
         "code": "MNP",
         "name": "Northern Mariana Islands",
         "eu": false
@@ -420,16 +251,6 @@
     {
         "code": "NOR",
         "name": "Norway",
-        "eu": false
-    },
-    {
-        "code": "OMN",
-        "name": "Oman",
-        "eu": false
-    },
-    {
-        "code": "PHL",
-        "name": "Philippines",
         "eu": false
     },
     {
