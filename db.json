@@ -1,5 +1,5 @@
 {
-"page1":[
+"page1":{"dataList":[
     {
         "code": "ALB",
         "name": "Albania",
@@ -140,14 +140,9 @@
         "code": "ISR",
         "name": "Israel",
         "eu": false
-    },
-    {
-        "code": "ITA",
-        "name": "Italy",
-        "eu": true
     }
-],
-"page2":[
+],"next":"https://my-json-server.typicode.com/php95/countries-api/page2"},
+"page2":{"dataList":[
     {
         "code": "HUN",
         "name": "Hungary",
@@ -298,5 +293,5 @@
         "name": "Saint Lucia",
         "eu": false
     }
-]
+]}
 }
